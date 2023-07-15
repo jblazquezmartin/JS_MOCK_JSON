@@ -1,0 +1,16 @@
+{
+  "query": "159.235.165.1",
+  "status": "success",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "AL",
+  "regionName": "Alabama",
+  "city": "Russellville",
+  "zip": "35653",
+  "lat": 34.5083,
+  "lon": -87.7225,
+  "timezone": "America/Chicago",
+  "isp": "Charter Communications",
+  "org": "Spectrum",
+  "as": "AS20115 Charter Communications"
+}

@@ -1,0 +1,16 @@
+{
+  "query": "165.235.123.1",
+  "status": "success",
+  "country": "United States",
+  "countryCode": "US",
+  "region": "CA",
+  "regionName": "California",
+  "city": "Sacramento",
+  "zip": "94203",
+  "lat": 38.581,
+  "lon": -121.4939,
+  "timezone": "America/Los_Angeles",
+  "isp": "California Department of Technology",
+  "org": "California Department of Technology",
+  "as": "AS1226 California Department of Technology"
+}
